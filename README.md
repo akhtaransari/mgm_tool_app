@@ -58,7 +58,6 @@ Our Membership Management Tool is built using the following technologies:
 
 - **Maven:** For project management and dependency resolution.
 - **Spring Data JPA:** Simplifies the implementation of data access layers using JPA.
-- **Hibernate:** An ORM (Object-Relational Mapping) framework for database interactions.
 - **Swagger:** For API documentation.
 - **MySQL Connector/J:** The official JDBC driver for MySQL.
 
